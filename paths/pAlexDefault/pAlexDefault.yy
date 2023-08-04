@@ -1,0 +1,26 @@
+{
+  "resourceType": "GMPath",
+  "resourceVersion": "1.0",
+  "name": "pAlexDefault",
+  "closed": false,
+  "kind": 0,
+  "parent": {
+    "name": "my paths [TRALEXIUM]",
+    "path": "folders/Paths/my paths [TRALEXIUM].yy",
+  },
+  "points": [
+    {"speed":100.0,"x":112.0,"y":-16.0,},
+    {"speed":100.0,"x":112.0,"y":104.0,},
+    {"speed":100.0,"x":48.0,"y":104.0,},
+    {"speed":100.0,"x":48.0,"y":248.0,},
+    {"speed":100.0,"x":112.0,"y":248.0,},
+    {"speed":100.0,"x":112.0,"y":184.0,},
+    {"speed":100.0,"x":208.0,"y":184.0,},
+    {"speed":100.0,"x":208.0,"y":72.0,},
+    {"speed":100.0,"x":352.0,"y":72.0,},
+    {"speed":100.0,"x":352.0,"y":184.0,},
+    {"speed":100.0,"x":288.0,"y":184.0,},
+    {"speed":100.0,"x":288.0,"y":368.0,},
+  ],
+  "precision": 4,
+}

@@ -1,0 +1,981 @@
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrSetPlayerMask\scrSetPlayerMask.gml
+Converted description /// @description sets the player's mask depending on gravity flip mode and (ADDED) dotkid/// @param ADDED
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrFlipGrav\scrFlipGrav.gml
+Converted description /// @description flips the current gravity
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrFlipGravNoDjump\scrFlipGravNoDjump.gml
+Converted description /// @description flips the current gravity
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrInitializeGlobals\scrInitializeGlobals.gml
+Converted description /// @description initializes all global variables needed for the game
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrSetGlobalOptions\scrSetGlobalOptions.gml
+Converted description /// @description sets configurable global options
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrSaveConfig\scrSaveConfig.gml
+Converted description /// @description saves current config settings
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrLoadConfig\scrLoadConfig.gml
+Converted description /// @description loads config settings, sets default config if it doesn't exist
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrSaveGame\scrSaveGame.gml
+Converted description /// @description scrSaveGame(saveposition)/// @param saveposition
+String not found: ConversionLog_ConvertedString 88 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 93 "Data\save" "Data\\save"
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrLoadGame\scrLoadGame.gml
+Converted description /// @description scrLoadGame(loadfile)/// @param loadfile
+String not found: ConversionLog_ConvertedString 16 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 20 "Data\save" "Data\\save"
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrSetRoomCaption\scrSetRoomCaption.gml
+Converted description /// @description sets the room caption
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrDrawButtonInfo\scrDrawButtonInfo.gml
+Converted description /// @description scrDrawButtonInfo(optionsText)/// @param optionsText
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrGetKeybind\scrGetKeybind.gml
+Converted description /// @description scrGetKeybind(key)/// @param key
+String not found: ConversionLog_ConvertedString 73 "\" "\\"
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrGetControllerBind\scrGetControllerBind.gml
+Converted description /// @description scrGetControllerBind(buttonIndex)/// @param buttonIndex
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrToggleMusic\scrToggleMusic.gml
+Converted description /// @description toggles the music on and off
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrRestartGame\scrRestartGame.gml
+Converted description /// @description restarts the game
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrSetVsync\scrSetVsync.gml
+Converted description /// @description sets vsync mode depending on the current setting
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrResetWindowSize\scrResetWindowSize.gml
+Converted description /// @description resets the window size back to the default
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrGetMusic\scrGetMusic.gml
+Converted description /// @description gets which song is supposed to be playing for the current room and plays it
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrPlayMusic\scrPlayMusic.gml
+Converted description /// @description scrPlayMusic(soundid,loops)/// @param soundid
+/// @param loops
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrStopMusic\scrStopMusic.gml
+Converted description /// @description stops any music currently playing
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAnyControllerButton\scrAnyControllerButton.gml
+Converted description /// @description scrAnyControllerButton()
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrButtonCheck\scrButtonCheck.gml
+Converted description /// @description scrButtonCheck(buttonArray)/// @param buttonArray
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrButtonCheckPressed\scrButtonCheckPressed.gml
+Converted description /// @description scrButtonCheckPressed(buttonArray)/// @param buttonArray
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrButtonCheckReleased\scrButtonCheckReleased.gml
+Converted description /// @description scrButtonCheckReleased(buttonArray)/// @param buttonArray
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrDrawTextOutline\scrDrawTextOutline.gml
+Converted description /// @description scrDrawTextOutline(x,y,string,textcolor,outlinecolor)/// @param x
+/// @param y
+/// @param string
+/// @param textcolor
+/// @param outlinecolor
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrMakeShapes\scrMakeShapes.gml
+Converted description /// @description scrMakeShapes(x,y,angle,edges,numprojectiles,speed,obj)/// @param x
+/// @param y
+/// @param angle
+/// @param edges
+/// @param numprojectiles
+/// @param speed
+/// @param obj
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrMakeCircle\scrMakeCircle.gml
+Converted description /// @description scrMakeCircle(x,y,angle,numprojectiles,speed,obj)/// @param x
+/// @param y
+/// @param angle
+/// @param numprojectiles
+/// @param speed
+/// @param obj
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrOscillate\scrOscillate.gml
+Converted description /// @description scrOscillate(magnitude,period,offset)/// @param magnitude
+/// @param period
+/// @param offset
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrIsBlock\scrIsBlock.gml
+Converted description /// @description scrIsBlock(id)/// @param id
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrIsBetterBlock\scrIsBetterBlock.gml
+Converted description /// @description scrIsBetterBlock(id)/// @param id
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrIsBetterPlatform\scrIsBetterPlatform.gml
+Converted description /// @description scrIsBetterPlatform(id)/// @param id
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrMoveContactObject\scrMoveContactObject.gml
+Converted description /// @description scrMoveContactObject(xMovement,yMovement,maxMovement,id)/// @param xMovement
+/// @param yMovement
+/// @param maxMovement
+/// @param id
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexActorMoveX\scrAlexActorMoveX.gml
+Converted description /// @description  scrAlexActorMoveX(amount, action, check4Blocks)/// @param amount
+/// @param  action
+/// @param  check4Blocks
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexActorMoveY\scrAlexActorMoveY.gml
+Converted description /// @description  scrAlexActorMoveY(amount, action, check4Blocks)/// @param amount
+/// @param  action
+/// @param  check4Blocks
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexMoveSolid\scrAlexMoveSolid.gml
+Converted description /// @description  scrAlexMoveSolid(x, y)/// @param x
+/// @param  y
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexDealDamage\scrAlexDealDamage.gml
+Converted description /// @description scrAlexDealDamage(dmg_num)/// @param dmg_num
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexShake\scrAlexShake.gml
+Converted description /// @description scrAlexShake(distance, duration, x_intensity, y_intensity)/// @param distance
+/// @param  duration
+/// @param  x_intensity
+/// @param  y_intensity
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexMakeParticle\scrAlexMakeParticle.gml
+Converted description /// @description scrAlexMakeParticle(x, y, life, sprite, image_spd, direction, speed, shrink[bool], fade[bool], depth_check[bool])/// @param x
+/// @param  y
+/// @param  life
+/// @param  sprite
+/// @param  image_spd
+/// @param  direction
+/// @param  speed
+/// @param  shrink[bool]
+/// @param  fade[bool]
+/// @param  depth_check[bool]
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexMakeParticleExt\scrAlexMakeParticleExt.gml
+Converted description /// @description scrAlexMakeParticleExt(x, y, life, sprite, image_spd, direction, speed, speed_shift[float], start_col, end_col, blend_mode, shrink[bool], fade[bool], random_wiggle[float], depth[int], depth_check[bool])/// @param x
+/// @param  y
+/// @param  life
+/// @param  sprite
+/// @param  image_spd
+/// @param  direction
+/// @param  speed
+/// @param  speed_shift[float]
+/// @param  start_col
+/// @param  end_col
+/// @param  blend_mode
+/// @param  shrink[bool]
+/// @param  fade[bool]
+/// @param  random_wiggle[float]
+/// @param  depth[int]
+/// @param  depth_check[bool]
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexAddEnemyWave\scrAlexAddEnemyWave.gml
+Converted description /// @description scrAlexAddEnemyWave(enemy_1, amount_1, seperation_1, spawn_delay_1, enemy_2, amount_2, seperation_2, spawn_delay_2, enemy_3, amount_3, seperation_3, spawn_delay_3)/// @param enemy_1
+/// @param  amount_1
+/// @param  seperation_1
+/// @param  spawn_delay_1
+/// @param  enemy_2
+/// @param  amount_2
+/// @param  seperation_2
+/// @param  spawn_delay_2
+/// @param  enemy_3
+/// @param  amount_3
+/// @param  seperation_3
+/// @param  spawn_delay_3
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexEaseOutSine\scrAlexEaseOutSine.gml
+Converted description /// @description  scrAlexEaseOutSine(time,start,end,duration)/// @param time
+/// @param start
+/// @param end
+/// @param duration
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexEaseInOutQuad\scrAlexEaseInOutQuad.gml
+Converted description /// @description  scrAlexEaseInOutQuad(time,start,end,duration)/// @param time
+/// @param start
+/// @param end
+/// @param duration
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexEaseInOutSine\scrAlexEaseInOutSine.gml
+Converted description /// @description  scrAlexEaseInOutSine(time,start,end,duration)/// @param time
+/// @param start
+/// @param end
+/// @param duration
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexEaseInSine\scrAlexEaseInSine.gml
+Converted description /// @description  scrAlexEaseInSine(time,start,end,duration)/// @param time
+/// @param start
+/// @param end
+/// @param duration
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexEaseLinear\scrAlexEaseLinear.gml
+Converted description /// @description  scrAlexEaseLinear(time,start,end,duration)/// @param time
+/// @param start
+/// @param end
+/// @param duration
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexEaseOutBounce\scrAlexEaseOutBounce.gml
+Converted description /// @description  scrAlexEaseOutBounce(time,start,end,duration)/// @param time
+/// @param start
+/// @param end
+/// @param duration
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexLoadGame\scrAlexLoadGame.gml
+Converted description /// @description scrAlexLoadGame(saveMap)/// @param saveMap
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexSaveGame\scrAlexSaveGame.gml
+Converted description /// @description scrAlexSaveGame(saveMap)/// @param saveMap
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\scripts\scrAlexSaveTower\scrAlexSaveTower.gml
+Converted description /// @description scrAlexSaveTower(x, y, tower_index)/// @param x
+/// @param  y
+/// @param  tower_index
+
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fDefault30\fDefault30.gms1.png
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fDefault24\fDefault24.gms1.png
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fDefault18\fDefault18.gms1.png
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fDefault12\fDefault12.gms1.png
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fAlexSmall\fAlexSmall.gms1.png
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fAlexMedium\fAlexMedium.gms1.png
+GameMaker Studio 1 font texture has been backed up at E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\fonts\fAlexBig\fAlexBig.gms1.png
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWorld\Alarm_1.gml
+Converted description /// @description return to previous window position/size (after using display_reset)/// @param after using display_reset
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWorld\Alarm_0.gml
+Converted description /// @description pause current music when it's done fading out
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWorld\Other_10.gml
+Converted description /// @description fade current music out
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWorld\Other_4.gml
+Converted description /// @description room checks
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWorld\Other_2.gml
+Converted description /// @description initialize everything
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWorld\Draw_64.gml
+Converted description /// @description draw debug overlay
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objCamera\Other_10.gml
+Converted builtin - line 14: view_xview[0] = floor(xFollow/view_wview[0])*view_wview[0] -> __view_set( e__VW.XView, 0, floor(xFollow/view_wview[0])*view_wview[0] )
+Converted builtin - line 15: view_yview[0] = floor(yFollow/view_hview[0])*view_hview[0] -> __view_set( e__VW.YView, 0, floor(yFollow/view_hview[0])*view_hview[0] )
+Converted description /// @description snap view to the section of the room that the player's in
+Converted builtin - line 14: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 14: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objDifficultyMenu\Create_0.gml
+String not found: ConversionLog_ConvertedString 20 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 30 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 34 "Data\save" "Data\\save"
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objDifficultyMenu\Step_0.gml
+String not found: ConversionLog_ConvertedString 83 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 88 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 131 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 132 "Data\save" "Data\\save"
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objPlayer\Collision_e39653c3-d862-4620-83fb-292c3668a3ff.gml
+Converted description /// @description Push out to avoid colliding with objects embedded in Better Blocks
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objPlayer\Draw_0.gml
+Converted description /// @description draw the player
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBow\Step_2.gml
+Converted description /// @description snap to the player after he moves this frame
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBow\Step_0.gml
+Converted description /// @description snap to the player before he moves this frame
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBow\Other_10.gml
+Converted description /// @description stay with the player
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBullet\Step_0.gml
+Converted description /// @description shoot refreshers
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBlood\Collision_18fbe33c-ddce-4934-abf8-2ff3edb5a55b.gml
+Converted description /// @description snap to the block (works for non-solid instances too)/// @param works for non-solid instances too
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objGameOver\Draw_0.gml
+Converted description /// @description do nothing
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlockHammer\Alarm_0.gml
+Converted description /// @description Change image_angle
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlockHammerBro\Other_10.gml
+Converted description /// @description Die
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlock\Other_13.gml
+Converted description /// @description Set values for next frame
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlock\Other_12.gml
+Converted description /// @description Platform behavior
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlock\Other_11.gml
+Converted description /// @description Vertical movement
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlock\Other_10.gml
+Converted description /// @description Horizontal movement
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objJumpSpikesBehindTiles\Other_4.gml
+Converted description /// @description  Give all jump spikes depth behind the tiles
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objJumpSpike\Other_10.gml
+Converted description /// @description  Start extending/retracting. Executed from scrPlayerJump.
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objShootRefresher\Create_0.gml
+Converted description /// @description parent object
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objShootRefresherR\Other_10.gml
+Converted description /// @description refresh jump
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objToggleShootRefresherR\Other_10.gml
+Converted description /// @description refresh jump
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objRedBulletHolder\Draw_0.gml
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objScreenWrapFull\Step_2.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 36: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 38: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 26: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 41: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 43: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 22: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 23: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 24: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 37: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 38: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 39: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 27: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 28: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 29: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 42: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 43: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 44: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objScreenWrapFull\Draw_0.gml
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 14: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 16: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objSpinTransitionPlayer\Step_0.gml
+Converted builtin - line 1: view_angle -> __view_get( e__VW.Angle, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objRotateKidUp\Step_0.gml
+Converted builtin - line 3: view_angle -> __view_get( e__VW.Angle, 0 )
+Converted builtin - line 4: view_angle+=5 -> __view_set( e__VW.Angle, 0, __view_get( e__VW.Angle, 0 ) + (5) )
+Converted builtin - line 13: view_angle=0 -> __view_set( e__VW.Angle, 0, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objRotateKidDown\Step_0.gml
+Converted builtin - line 3: view_angle -> __view_get( e__VW.Angle, 0 )
+Converted builtin - line 4: view_angle+=5 -> __view_set( e__VW.Angle, 0, __view_get( e__VW.Angle, 0 ) + (5) )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objRotateKidDown\Other_4.gml
+Converted builtin - line 2: view_angle = 180 -> __view_set( e__VW.Angle, 0, 180 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objCherryNotDestroyOutsideRoom\Create_0.gml
+Converted description /// @description this object is mainly for the cherry ring object so that it will not crash the game
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlockCtrl\Create_0.gml
+Converted description /// @description Prevent multiple instances existing at the same time
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objBetterBlockCtrl\Step_2.gml
+Converted description /// @description Manage Collision Detection of Better Blocks and Platforms
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objSave\Other_10.gml
+Converted description /// @description save the game
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWarpStart\Collision_e5bbacf9-e547-4a8a-9b9f-f5157f4e62cf.gml
+String not found: ConversionLog_ConvertedString 3 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 15 "Data\save" "Data\\save"
+String not found: ConversionLog_ConvertedString 16 "Data\save" "Data\\save"
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWarpNext\Collision_cb617aca-fe6f-48a2-ba55-5bcebfbc7f53.gml
+Converted description /// @description go to the next room
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objWarpAutosaveNext\Collision_5c82f89c-41dd-4454-afd9-c19d8e2e8e27.gml
+Converted description /// @description go to the next room and autosave
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objGameClear\Collision_6547bc1d-4549-424b-9142-978592722b98.gml
+Converted description /// @description set game to clear and autosave when touched
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Create_0.gml
+Converted description /// @description  Check if a copy already exists
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Alarm_0.gml
+Converted description /// @description  Load last save
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Step_0.gml
+Converted description /// @description  Destroy itself if in a different room  
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Other_12.gml
+Converted description /// @description  Save current stats
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Other_11.gml
+Converted description /// @description  Rebuild all the towers from the last wave
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Other_10.gml
+Converted description /// @description  Reset globals back to defaults
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWorldTracker\Other_4.gml
+Converted description /// @description  Start alarm to load the last save
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Alarm_1.gml
+Converted description /// @description  Exit store
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Alarm_0.gml
+Converted description /// @description  Hide coin counter
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Step_0.gml
+Converted description /// @description  Tower manipulation / placing
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Other_10.gml
+Converted description /// @description  Show coin counter
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Draw_64.gml
+Converted builtin - line 17: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 84: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 17: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 84: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 79: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 93: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 79: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 93: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw the tower pointing dot for test porpuses
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTowerController\Draw_0.gml
+Converted description /// @description  Draw grid
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Create_0.gml
+Converted description /// @description  Init variables
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Destroy_0.gml
+Converted description /// @description  Destroy all the data structures
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Alarm_11.gml
+Converted description /// @description  Change the button sprite to the flag one
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Alarm_3.gml
+Converted description /// @description  Start finish fade out
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Alarm_2.gml
+Converted description /// @description  Handle 3rd wave segment
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Alarm_1.gml
+Converted description /// @description  Handle 2nd wave segment
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Alarm_0.gml
+Converted description /// @description  Handle 1st wave segment
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Step_0.gml
+Converted description /// @description  Input
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Other_3.gml
+Converted description /// @description  Destroy all the data structures
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexWaveController\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 27: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 27: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 30: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 30: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw wave num and button
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexControlDisplay\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexControlDisplay\Step_0.gml
+Converted description /// @description  Assign text & move text panels
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexControlDisplay\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 20: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 20: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw what the jump and shoot buttons do atm
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexGameOver\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexGameOver\Step_0.gml
+Converted description /// @description  Animations & input
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexGameOver\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 33: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 33: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw this shit
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexRestartPrompt\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexRestartPrompt\Step_0.gml
+Converted description /// @description  Animations & input
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexRestartPrompt\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 31: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 31: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw this shit
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSellArea\Step_0.gml
+Converted description /// @description  Logic
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSellArea\Collision_466126a9-58aa-49da-b506-a5267be09662.gml
+Converted description /// @description  Check if the tower coords match ours
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexActor\Create_0.gml
+Converted description /// @description  Actors are responsible for interacting with solids
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexActor\Step_0.gml
+Converted description /// @description  Move the object and check for solids
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlock\Create_0.gml
+Converted description /// @description  Initialize solid properties
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlock\Step_0.gml
+Converted description /// @description  Move the solid if speed is not 0
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Create_0.gml
+Converted description /// @description  Init variables
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Alarm_11.gml
+Converted description /// @description  Begin path
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Step_2.gml
+Converted description /// @description  Visual control
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Collision_7587ec15-63da-4e31-9ac6-a2ff1c6fee21.gml
+Converted description /// @description  Take damage and store the projectile in a list
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Collision_3ae618d6-9260-411b-b54f-9772bf0c3bdc.gml
+Converted description /// @description  Destroy the enemy and deal damage
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Other_3.gml
+Converted description /// @description  Destroy the list
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemy\Draw_0.gml
+Converted description /// @description  Draw shadow & bounce
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Create_0.gml
+Converted description /// @description  Init variables
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Alarm_11.gml
+Converted description /// @description  Begin path
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Step_2.gml
+Converted description /// @description  Visual control
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Collision_016e94dd-7f29-4fb1-ba86-6f592201e0a4.gml
+Converted description /// @description  Destroy the enemy and deal damage
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Other_3.gml
+Converted description /// @description  Destroy the list
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHiddenEnemy\Draw_0.gml
+Converted description /// @description  Draw shadow & bounce
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyHealthyJar\Destroy_0.gml
+Converted description /// @description  Destroy the list & VFX
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyTrollface\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyCursedTrollface\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyCursedTrollface\Step_0.gml
+Converted description /// @description  Shoot at the player
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyCursedTrollface\Other_7.gml
+Converted description /// @description  Stop the animation
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemySoldierTag\Step_0.gml
+Converted description /// @description  Shoot at the player
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemySoldierTag\Other_7.gml
+Converted description /// @description  Stop the animation
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemySpitter\Step_0.gml
+Converted description /// @description  Shoot at the player
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemySpitter\Other_7.gml
+Converted description /// @description  Stop the animation
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyZappyTag\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemySleepyTag\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSleepyTagExplosion\Create_0.gml
+Converted description /// @description  Init vars & particles
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSleepyTagExplosion\Alarm_0.gml
+Converted description /// @description  Disable collision
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyFruitWarrior\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyFruitWarrior\Step_0.gml
+Converted description /// @description  Hide
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyFruitWarrior\Other_10.gml
+Converted description /// @description  Smoke particles
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFruitWarriorHiddenForm\Destroy_0.gml
+Converted description /// @description  Overide parent
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFruitWarriorHiddenForm\Alarm_0.gml
+Converted description /// @description  Re-appear
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFruitWarriorHiddenForm\Other_10.gml
+Converted description /// @description  Smoke particles
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyBlueberapple\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemySlimmy\Destroy_0.gml
+Converted description /// @description  Drop coins
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyProjectile\Create_0.gml
+Converted description /// @description  Init variables
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyProjectile\Destroy_0.gml
+Converted description /// @description  Impact effect
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexEnemyProjectile\Step_2.gml
+Converted description /// @description  Visuals
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexCursedTrollFaceProjectile\Step_0.gml
+Converted description /// @description  Movement
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlueberappleSplash\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlueberappleSplash\Step_0.gml
+Converted description /// @description  Expand and decrease
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSlimmySplash\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSlimmySplash\Step_0.gml
+Converted description /// @description  Expand and decrease and glow
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSlimmySplash\Collision_038db56e-6b58-4f79-8334-3fc5919dba87.gml
+Converted description /// @description  Deal damage to the player
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSlimmySplash\Draw_0.gml
+Converted description /// @description  Draw the glow
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPlayer\Collision_91fd5275-d553-4801-84b9-a7763697110f.gml
+Converted description /// @description  Take damage from projectile
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPlayer\Collision_15770e95-a10f-4692-bb20-f1e5a5255f10.gml
+Converted description /// @description  Take damage from enemy projectile
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPlayer\Draw_0.gml
+Converted description /// @description  Draw shadow and scale
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHealthBar\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHealthBar\Step_0.gml
+Converted description /// @description  Scan the player's stats
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHealthBar\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 17: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 17: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw the bar
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTower\Alarm_11.gml
+Converted description /// @description  Un-stun the tower
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTower\Step_2.gml
+Converted description /// @description  Depth control
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTower\Collision_32ac400e-649d-4308-8acd-b609be7b9082.gml
+Converted description /// @description  Stun the tower
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTower\Other_25.gml
+Converted description /// @description  Sell tower
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTower\Other_24.gml
+Converted description /// @description  Save tower
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexTower\Draw_0.gml
+Converted description /// @description  Shake the tower when trying to place it in an invalid spot
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexAimerTower\Draw_73.gml
+Converted description /// @description  Draw line/pointer
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlasterTower\Draw_73.gml
+Converted description /// @description  Draw line/pointer
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexSprayerTower\Draw_73.gml
+Converted description /// @description  Draw line/pointer
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexProjectile\Create_0.gml
+Converted description /// @description  Init variables
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexProjectile\Destroy_0.gml
+Converted description /// @description  Impact effect
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexProjectile\Step_2.gml
+Converted description /// @description  Visuals
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexProjectile\Other_0.gml
+Converted description /// @description  Delete the projectile
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexProjectile\Draw_0.gml
+Converted description /// @description  Draw shadow (not in use) /// @param not in use
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlasterExplosion\Destroy_0.gml
+Converted description /// @description  Overwrite parent
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlasterExplosion\Alarm_0.gml
+Converted description /// @description  Disable collision
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBouncerExplosion\Destroy_0.gml
+Converted description /// @description  Overwrite parent
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBouncerExplosion\Alarm_0.gml
+Converted description /// @description  Disable collision
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBlasterProjectile\Destroy_0.gml
+Converted description /// @description  Create explosion
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBouncerProjectile\Destroy_0.gml
+Converted description /// @description  Create explosion
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexBouncerProjectile\Step_0.gml
+Converted description /// @description  Bounce away from the room's edges
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexCoin\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexCoin\Destroy_0.gml
+Converted description /// @description  Do fancy effects here
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexCoin\Step_0.gml
+Converted description /// @description  Depth control and magnet
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexCoin\Collision_0193d1a2-2f09-456f-9b26-89146f8994df.gml
+Converted description /// @description  Add value to tower controller
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHeart\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHeart\Destroy_0.gml
+Converted description /// @description  Do fancy effects here
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHeart\Step_0.gml
+Converted description /// @description  Depth control and magnet
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHeart\Collision_8ced56a4-4082-4ca9-83d9-772a6183b79b.gml
+Converted description /// @description  Add value to tower controller
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexHeart\Other_10.gml
+Converted description /// @description  Particle firework
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexGoldenCoin\Collision_c7123314-b361-476a-9d82-66ca316a150d.gml
+Converted description /// @description  Add value to tower controller
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPathArrowSpawner\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPathArrowSpawner\Alarm_1.gml
+Converted description /// @description  Spawn an arrow on both ends
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPathArrowSpawner\Alarm_0.gml
+Converted description /// @description  Spawn the chunk of arrows
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPathArrowSpawner\Step_0.gml
+Converted description /// @description  Check if wave has started
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexPathArrow\Step_0.gml
+Converted description /// @description  fade out if wave has started
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexScreenShake\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexScreenShake\Alarm_1.gml
+Converted builtin - line 3: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 4: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted description /// @description  Reset view and destroy
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexScreenShake\Alarm_0.gml
+Converted description /// @description  Start the duration timer
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexScreenShake\Step_0.gml
+Converted builtin - line 6: view_xview[0] = dsin(x_t)*distance -> __view_set( e__VW.XView, 0, dsin(x_t)*distance )
+Converted builtin - line 7: view_yview[0] = dsin(y_t)*distance -> __view_set( e__VW.YView, 0, dsin(y_t)*distance )
+Converted description /// @description  Shake the screen
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexVignetteEffect\Step_0.gml
+Converted description /// @description  Blend between colours
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexVignetteEffect\Draw_0.gml
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexParticle\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexParticle\Step_0.gml
+Converted description /// @description  Logic
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexParticle\Draw_0.gml
+Converted description /// @description  Apply blend mode
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFadeInRoom\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFadeInRoom\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 9: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFinishBeam\Create_0.gml
+Converted description /// @description  Init vars
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFinishBeam\Step_0.gml
+Converted description /// @description  Decrease the flash alpha
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFinishBeam\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 10: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted description /// @description  Draw the flash
+
+Converting GML script: E:\Game Maker Studio 2\Projects\Builder Kid\Builder Kid\conv\gmx\Builder Kid_650F229A\objects\objAlexFinishBeamBlast\Create_0.gml
+Converted description /// @description  Init vars
+
+Missing audiogroup for sound: 'sndJump' - setting to default audio group
+Missing audiogroup for sound: 'sndDJump' - setting to default audio group
+Missing audiogroup for sound: 'sndWallJump' - setting to default audio group
+Missing audiogroup for sound: 'sndShoot' - setting to default audio group
+Missing audiogroup for sound: 'sndDeath' - setting to default audio group
+Missing audiogroup for sound: 'sndItem' - setting to default audio group
+Missing audiogroup for sound: 'sndBlockChange' - setting to default audio group
+Missing audiogroup for sound: 'sndBossHit' - setting to default audio group
+Missing audiogroup for sound: 'sndCherry' - setting to default audio group
+Missing audiogroup for sound: 'sndGlass' - setting to default audio group
+Missing audiogroup for sound: 'sndSpikeTrap' - setting to default audio group
+Missing audiogroup for sound: 'sndBreak' - setting to default audio group
+Missing audiogroup for sound: 'sndBetterBlockEnemyDie' - setting to default audio group
+Missing audiogroup for sound: 'sndBetterBlockWheel' - setting to default audio group
+Missing audiogroup for sound: 'musOnDeath' - setting to default audio group
+Missing audiogroup for sound: 'musGuyRock' - setting to default audio group
+Missing audiogroup for sound: 'musMegaman' - setting to default audio group
+Missing audiogroup for sound: 'musMiku' - setting to default audio group
+Missing audiogroup for sound: 'sndGainStar' - setting to default audio group
+Missing audiogroup for sound: 'sndLoseStar' - setting to default audio group
+Missing audiogroup for sound: 'sndBlockCrash' - setting to default audio group
+Missing audiogroup for sound: 'sndDotkidChange' - setting to default audio group
+Missing audiogroup for sound: 'sndLaserSwitch' - setting to default audio group
+Missing audiogroup for sound: 'sndSpikeSwitch' - setting to default audio group
+Missing audiogroup for sound: 'sndCeilingSwitch' - setting to default audio group
+Missing audiogroup for sound: 'sndYoshi' - setting to default audio group
+Missing audiogroup for sound: 'sndYoshi2' - setting to default audio group
+Missing audiogroup for sound: 'sndYoshiJump' - setting to default audio group
+Missing audiogroup for sound: 'sndVCoin' - setting to default audio group
+Missing audiogroup for sound: 'sndVFlip1' - setting to default audio group
+Missing audiogroup for sound: 'sndVFlip2' - setting to default audio group
+Missing audiogroup for sound: 'sndChompy' - setting to default audio group
+Missing audiogroup for sound: 'sndSheepBlock' - setting to default audio group
+Missing audiogroup for sound: 'sndCamera' - setting to default audio group
+Missing audiogroup for sound: 'sndTransform' - setting to default audio group
+Missing audiogroup for sound: 'sndThwomp' - setting to default audio group
+Missing audiogroup for sound: 'sndShootRefresher' - setting to default audio group
+Missing audiogroup for sound: 'sndGetItem' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexUIMove' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexUISelect' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexUICancel' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexUIError' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexBronzeCoin' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexSilverCoin' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexGoldenCoin' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexTowerPlaced' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexTowerSold' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexHeart' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexHealthyJarBreak' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexEnemyKilled' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexTFKilled' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexFinalBossKilled' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexProjectileHit' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexSplashEnemyKilled' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexSleepyTagKilled' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexEnemyHidden' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexEnemyAppear' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexExplosion' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexElectricExplosion' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexWaveStart' - setting to default audio group
+Missing audiogroup for sound: 'sndAlexClear' - setting to default audio group
+Missing audiogroup for sound: 'musAlexDefault' - setting to default audio group
+Game speed set to 50
+Added compatibility script 'action\event_inherited.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'texture\texture_set_interpolation.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'view\__view_set.gml'
+Added compatibility script 'view\__view_set_internal.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
