@@ -27,11 +27,13 @@ else
         }
         else if (scrButtonCheckPressed(global.menuBackButton))
         {
+			audio_play_sound(sndAlexUICancel,0,false);
             global.menuSelectPrev[0] = 0;
             room_goto(rTitle);  //go back
         }
         else if (scrButtonCheckPressed(global.menuAcceptButton))
         {
+			audio_play_sound(sndAlexUISelect,0,false);
             if (global.menuMode == 0)   //use the difficulty select room to select difficulty
             {
                 global.savenum = select+1;
@@ -72,10 +74,12 @@ else
             }
             else if (scrButtonCheckPressed(global.menuBackButton))
             {
+				audio_play_sound(sndAlexUICancel,0,false);
                 difSelect = false;
             }
             else if (scrButtonCheckPressed(global.menuAcceptButton))
             {
+				audio_play_sound(sndAlexUISelect,0,false);
                 global.savenum = select+1;
                 
                 if (select2 == -1)  //load game
@@ -116,6 +120,7 @@ else
             }
             else if (scrButtonCheckPressed(global.menuBackButton))
             {
+				audio_play_sound(sndAlexUICancel,0,false);
                 warnText = false;
             }
             else if (scrButtonCheckPressed(global.menuAcceptButton))

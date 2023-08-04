@@ -27,16 +27,16 @@ function scrDrawButtonInfo(argument0) {
 	//button info
 	draw_set_font(fDefault12);
 	draw_set_halign(fa_left);
-	draw_text(34,556,string_hash_to_newline("["+backButton+"] Back"));
+	scrDrawTextOutline(34,556,$"[{backButton}] Back", c_white, c_black);
 	draw_set_halign(fa_right);
-	draw_text(766,556,string_hash_to_newline("["+acceptButton+"] Accept"));
+	scrDrawTextOutline(766,556,$"[{acceptButton}] Accept", c_white, c_black);
 
 	if (optionsText)
 	{
 	    //draw button info for the options menu
     
-	    draw_set_halign(fa_middle);
-	    draw_text(400,556,string_hash_to_newline("["+optionsButton+"] Options"));
+	    draw_set_halign(fa_center);
+	    scrDrawTextOutline(400,556,$"[{optionsButton}] Options", c_white, c_black);
 	}
 
 

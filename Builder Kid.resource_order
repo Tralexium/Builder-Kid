@@ -633,6 +633,7 @@
     {"name":"objRotateKidDown","order":9,"path":"objects/objRotateKidDown/objRotateKidDown.yy",},
     {"name":"objSwitcherSpike","order":10,"path":"objects/objSwitcherSpike/objSwitcherSpike.yy",},
     {"name":"objGreenSpikeUp","order":11,"path":"objects/objGreenSpikeUp/objGreenSpikeUp.yy",},
+    {"name":"objTitleBG","order":9,"path":"objects/objTitleBG/objTitleBG.yy",},
     {"name":"objGreenSpikeRight","order":12,"path":"objects/objGreenSpikeRight/objGreenSpikeRight.yy",},
     {"name":"objGreenSpikeLeft","order":13,"path":"objects/objGreenSpikeLeft/objGreenSpikeLeft.yy",},
     {"name":"objGreenSpikeDown","order":14,"path":"objects/objGreenSpikeDown/objGreenSpikeDown.yy",},
