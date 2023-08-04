@@ -12,6 +12,7 @@ summon_timer = 0                    // Keeps track of how long you're holding th
 wave_cleared = true                 // if no enemies are present on screen
 all_waves_cleared = false           // Checks if all the enemy waves have been cleared
 finish_fade_out = false             // Fade before going to the next screen
+fast_forward = false				// Increases game speed during waves
 
 // Whether all the enemies from the # segment are finished spawning
 for(i=0; i<3; i++)

@@ -29,6 +29,23 @@ if(wave_cleared && !scrAlexCheckShopOpen() && !scrAlexCheckGameOver() && !scrAle
     }
 }
 
+
+// Fast Forward during active waves
+if(!wave_cleared) {
+	if scrButtonCheckPressed(global.jumpButton) {
+		fast_forward = true;
+		audio_play_sound(sndAlexFastForwardStart, 0, false);
+		audio_play_sound(sndAlexFastForwardTape, 0, true);
+		layer_set_visible("Fast_Forward_Effect", true);
+		game_set_speed(100, gamespeed_fps);
+	}
+	if scrButtonCheckReleased(global.jumpButton) {
+		event_user(0);  // Stop Fast Forward
+	}
+}
+
+
+
 /// Summon the next wave
 
 // Check if wave is complete
@@ -39,7 +56,8 @@ for(i=0; i<3; i++){
 }
 if(!wave_cleared && !instance_exists(objAlexEnemy) && !instance_exists(objAlexHiddenEnemy) && all_enemies_spawned && !scrAlexCheckGameOver()) {
     wave_cleared = true
-    
+    event_user(0);  // Stop Fast Forward
+	
     // SAVE CURRENT STATS
     with(objAlexWorldTracker) {
         event_user(2);
@@ -98,7 +116,7 @@ if(summon_next_wave) {
 /// UI Manipulation
 
 // Move the button
-if(wave_cleared && !scrAlexCheckGameOver() && !ui_finish_transition_active) {
+if((wave_cleared && !scrAlexCheckGameOver() && !ui_finish_transition_active) || fast_forward) {
     ui_right_margin = lerp(ui_right_margin, ui_active_button_position, .2)
     ui_button_alpha = lerp(ui_button_alpha, 1, .2);
 } else {            

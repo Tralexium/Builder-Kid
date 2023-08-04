@@ -32,6 +32,20 @@
   ],
   "isDnd": false,
   "layers": [
+    {"resourceType":"GMREffectLayer","resourceVersion":"1.0","name":"Fast_Forward_Effect","depth":-10099,"effectEnabled":true,"effectType":"_filter_old_film","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[
+        {"name":"g_OldFilmFlickerIntensity","type":0,"value":"0.075",},
+        {"name":"g_OldFilmFlickerSpeed","type":0,"value":"9.5",},
+        {"name":"g_OldFilmJitterIntensity","type":0,"value":"0",},
+        {"name":"g_OldFilmSaturation","type":0,"value":"0.75",},
+        {"name":"g_OldFilmSpeckIntensity","type":0,"value":"0.05",},
+        {"name":"g_OldFilmBarScale","type":0,"value":"0.1",},
+        {"name":"g_OldFilmBarSpeed","type":0,"value":"1",},
+        {"name":"g_OldFilmBarFrequency","type":0,"value":"45",},
+        {"name":"g_OldFilmRingScale","type":0,"value":"0.49",},
+        {"name":"g_OldFilmRingSharpness","type":0,"value":"64",},
+        {"name":"g_OldFilmRingIntensity","type":0,"value":"0.45",},
+        {"name":"g_OldFilmTexture","type":2,"value":"_filter_old_film_texture",},
+      ],"userdefinedDepth":false,"visible":false,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Compatibility_Instances_Depth_-9999","depth":-9999,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_499E2E64","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objAlexWorldTracker","path":"objects/objAlexWorldTracker/objAlexWorldTracker.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":288.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},

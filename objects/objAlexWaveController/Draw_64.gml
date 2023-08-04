@@ -16,6 +16,7 @@ scrDrawTextOutline(ui_right_margin-8, ui_top_margin, wave_text, c_white, dark_co
 // Button
 var button_index = 0
 if(!wave_cleared) button_index = 1;
+if(fast_forward) button_index = 2;
 draw_sprite_ext(button_sprite_index, button_index, ui_right_margin, ui_top_margin, 1, 1, 0, -1, ui_button_alpha)
 draw_set_blend_mode(bm_add)
 draw_sprite_part(button_sprite_index, button_index, 0, 0, 48*ui_button_progress, 24, ui_right_margin, ui_top_margin)

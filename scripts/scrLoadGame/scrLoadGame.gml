@@ -88,7 +88,7 @@ function scrLoadGame(argument0) {
 
 	global.gameClear = global.saveGameClear;
 
-	instance_create(global.savePlayerX,global.savePlayerY,objPlayer);
+	//instance_create(global.savePlayerX,global.savePlayerY,objPlayer);
 
 	room_goto(asset_get_index(global.saveRoom));
 
