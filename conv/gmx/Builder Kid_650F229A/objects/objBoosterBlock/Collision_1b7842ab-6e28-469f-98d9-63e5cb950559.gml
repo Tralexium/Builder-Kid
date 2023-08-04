@@ -1,2 +1,0 @@
-other.vspeed = -other.jump 
-

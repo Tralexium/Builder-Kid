@@ -1,3 +1,0 @@
-global.edgeDeath = false
-
-

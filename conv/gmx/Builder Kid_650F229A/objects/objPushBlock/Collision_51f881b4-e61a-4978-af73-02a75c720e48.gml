@@ -1,3 +1,0 @@
-x = xMoved
-y = yMoved
-
