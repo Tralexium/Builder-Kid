@@ -10,7 +10,7 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 0.257937,
+  "duration": 0.328917,
   "parent": {
     "name": "My Sounds [TRALEXIUM]",
     "path": "folders/Sounds/My Sounds [TRALEXIUM].yy",

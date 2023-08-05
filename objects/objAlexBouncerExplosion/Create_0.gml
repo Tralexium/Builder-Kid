@@ -10,6 +10,6 @@ speed = 0
 
 alarm[0] = 3;
 
-scrAlexShake(2, 10, 80, 40);
+scrAlexShake(1, 10, 80, 40);
 audio_play_sound(sndAlexElectricExplosion, 0, false)
 

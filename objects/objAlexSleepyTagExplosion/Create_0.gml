@@ -3,7 +3,7 @@
 image_speed = .5;
 depth = -y;
 
-scrAlexShake(2, 10, 80, 40);
+scrAlexShake(1, 10, 80, 40);
 
 repeat(5) {
     var scale = random_range(.5, 1);

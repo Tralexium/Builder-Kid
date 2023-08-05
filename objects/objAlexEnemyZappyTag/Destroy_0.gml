@@ -26,7 +26,7 @@ if(hp <= 0) {
     var vfx = instance_create(x, y, objAlexEnemyKilledVFX);
         vfx.sprite_index = sprAlexZappyTagExplosion;
         
-    scrAlexShake(2, 10, 80, 40);
+    scrAlexShake(1, 10, 80, 40);
 
     for(var i=0; i<4; i++) {
         var angle = 45 + (i*90);

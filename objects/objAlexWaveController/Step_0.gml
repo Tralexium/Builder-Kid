@@ -31,7 +31,7 @@ if(wave_cleared && !scrAlexCheckShopOpen() && !scrAlexCheckGameOver() && !scrAle
 
 
 // Fast Forward during active waves
-if(!wave_cleared) {
+if(!wave_cleared && !scrAlexCheckGameOver() && !scrAlexCheckRestartPrompt()) {
 	if scrButtonCheckPressed(global.jumpButton) {
 		fast_forward = true;
 		audio_play_sound(sndAlexFastForwardStart, 0, false);
